@@ -15,7 +15,7 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "chemem/bingo-functional": "^1.4.0",
+        "chemem/bingo-functional": "1.8.0",
         "functional-php/pattern-matching": "^0.3.1",
         "nikic/php-parser": "4.0.1"
     },
